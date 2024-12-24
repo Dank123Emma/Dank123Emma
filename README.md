@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dank123Emma(Emmanuel Junior Dankwah)
-- 👀 I want to find myself in data analytis/science
-- 🌱 I’m currently learning C++ but I will go in python soom
+- 👀 I want to find myself in data science
+- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on any project that can help improve my coding skills
 - 📫 How to reach me +233257167393(Whatsapp)/@voiceofgoldgh(X)/@_jnr.blacko(Instagram)/Emmanuel Junior Dankwah(LinkedIn)
 - 😄 Pronouns: He
